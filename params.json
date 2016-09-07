@@ -1,0 +1,6 @@
+{
+  "name": "2016 LZU Computer Architecture Course",
+  "tagline": "2016级兰州大学高等计算机系统结构课程",
+  "body": "# LZU-Computer-Architecture\r\n兰州大学高等计算机系统结构课程-2016级\r\n\r\n首先请各位同学点击右上角的`Star`\r\n\r\n### 此仓库的功能:\r\n1. 老师在此发布课件和讲义等参考资料\r\n2. 同学们通过此仓库的Issues发起任何学习有关的新想法或者问题的讨论\r\n3. 此仓库也作为同学们提交作业的仓库\r\n\r\n### 作业提交方式\r\n[fork this repo](https://help.github.com/articles/fork-a-repo/) & [create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)\r\n\r\n# LICENSE\r\n[CC-BY-SA-4.0](./LICENSE)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
