@@ -1,15 +1,14 @@
-# LZU-Computer-Architecture
-兰州大学高等计算机系统结构课程-2016级
+# "高等计算机系统结构"课程介绍
+兰州大学
 
-首先请各位同学点击右上角的`Star`
+### 开课对象:
+一年级硕士研究生
 
-### 此仓库的功能:
-1. 老师在此发布课件和讲义等参考资料
-2. 同学们通过此仓库的Issues发起任何学习有关的新想法或者问题的讨论
-3. 此仓库也作为同学们提交作业的仓库
+### 课程介绍:
 
-### 作业提交方式
-[fork this repo](https://help.github.com/articles/fork-a-repo/) & [create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+### 说明
+本文档内容为各位同学通过查找相关资料整理概括得出,如有侵权请联系我们删除.
+感谢参与编写该文档的各位同学,同时也希望更多的同学参与进来.
 
-# LICENSE
-[CC-BY-SA-4.0](./LICENSE)
+### LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
