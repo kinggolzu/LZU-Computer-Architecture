@@ -1,6 +1,5 @@
 ### 1.3 第三代(1964-1974)
-> 起草人：[申泽邦](mailto:shenzb12@lzu.edu.cn)
-> [王金强](mailto:shenzb12@lzu.edu.cn)
+> 起草人：[申泽邦](mailto:shenzb12@lzu.edu.cn)，[王金强](mailto:shenzb12@lzu.edu.cn)
 
 
 #### 第三代的特征
