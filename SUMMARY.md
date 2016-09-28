@@ -5,3 +5,4 @@
 	* [第二代(1958-1964)](/chapter1/second-generation.md)
 	* [第三代(1964-1974)](/chapter1/third-generation.md)
 	* [第四代(1974-现在)](/chapter1/forth-generation.md)
+* [指令级并行及其拓展](/chapter2/index.md)
