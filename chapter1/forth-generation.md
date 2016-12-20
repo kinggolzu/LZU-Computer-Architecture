@@ -1,5 +1,5 @@
 ### 1.4 第四代(1974-现在)
->起草人：[马啸]()，[吴昊]()，[谢启荣](mailto:xieqr16@lzu.edu.cn)
+>起草人：[马啸](mailto:max2016@lzu.edu.cn)，[吴昊]()，[谢启荣](mailto:xieqr16@lzu.edu.cn)
 
 #### 第四代的特征
 

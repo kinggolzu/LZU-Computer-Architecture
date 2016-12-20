@@ -1,7 +1,7 @@
 # 第一章. 体系结构演进史
 
 - [第一节、第一代(1945-1958)](first-generation.html)
-- [第二节、第二代(1958 - 1964)](second-generation.html)
+- [第二节、第二代(1958-1964)](second-generation.html)
 - [第三节、第三代(1964-1974)](third-generation.html)
 - [第四节、第四代(1974-现在)](forth-generation.html)
 
