@@ -7,3 +7,4 @@
 	* [第四代(1974-现在)](/chapter1/forth-generation.md)
 * [指令级并行及其拓展](/chapter2/index.md)
 	* [指令级并行：概念与挑战](/chapter2/2.1.md)
+	* [用基本编译技术揭示ILP](/chapter2/2.2.md)
