@@ -17,8 +17,7 @@
 	* [2.9 指令传送和推测的高级技术](/chapter2/2.9.md)
 	* [2.10 Intel奔腾4处理器](/chapter2/2.10.md)
 	* [2.11 案例分析 参照第二章内容](/chapter2/2.11.md)
-	
-* [指令集原理与实例](/appendixB/index.md)
+* [附录B 指令集原理与实例](/appendixB/index.md)
 	* [B.1 介绍](/appendixB/B.1.md)
 	* [B.2 指令集结构分类](/appendixB/B.2.md)
 	* [B.3 内存寻址](/appendixB/B.3.md)
