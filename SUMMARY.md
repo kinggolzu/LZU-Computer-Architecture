@@ -18,3 +18,5 @@
 	* [2.10 Intel奔腾4处理器](/chapter2/2.10.md)
 	* [2.11 案例分析 参照第二章内容](/chapter2/2.11.md)
 	
+* [指令集原理与实例](/appendix B/index.md)
+	
