@@ -18,5 +18,17 @@
 	* [2.10 Intel奔腾4处理器](/chapter2/2.10.md)
 	* [2.11 案例分析 参照第二章内容](/chapter2/2.11.md)
 	
-* [指令集原理与实例](/appendix B/index.md)
+* [指令集原理与实例](/appendixB/index.md)
+	* [B.1 介绍](/appendixB/B.1.md)
+	* [B.2 指令集结构分类](/appendixB/B.2.md)
+	* [B.3 内存寻址](/appendixB/B.3.md)
+	* [B.4 操作数的类型和大小](/appendixB/B.4.md)
+	* [B.5 指令集中的操作](/appendixB/B.5.md)
+	* [B.6 控制流指令](/appendixB/B.6.md)
+	* [B.7 编码指令集](/appendixB/B.7.md)
+	* [B.8 交叉问题：编译器的作用](/appendixB/B.8.md)
+	* [B.9 整合：MIPS架构](/appendixB/B.9.md)
+	* [B.10 谬误与陷阱](/appendixB/B.10.md)
+	* [B.11 结语](/appendixB/B.11.md)
+	
 	
