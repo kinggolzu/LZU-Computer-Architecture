@@ -8,3 +8,5 @@
 * [指令级并行及其拓展](/chapter2/index.md)
 	* [指令级并行：概念与挑战](/chapter2/2.1.md)
 	* [用基本编译技术揭示ILP](/chapter2/2.2.md)
+	* [通过预测降低分支成本](/chapter2/2.3.md)
+	* [利用动态调度克服数据冲突](/chapter2/2.4.md)
